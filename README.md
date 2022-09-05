@@ -28,7 +28,7 @@ SVM works by mapping data to a high-dimensional feature space so that data point
 <hr>
 
 <h2 id="load_dataset">Load the Cancer data</h2>
-The example is based on a dataset that is publicly available from the UCI Machine Learning Repository (Asuncion and Newman, 2007)[http://mlearn.ics.uci.edu/MLRepository.html]. The dataset consists of several hundred human cell sample records, each of which contains the values of a set of cell characteristics. The fields in each record are:
+The example is based on a dataset that is publicly available from the UCI Machine Learning Repository (Asuncion and Newman, 2007). The dataset consists of several hundred human cell sample records, each of which contains the values of a set of cell characteristics. The fields in each record are:
 
 | Field name  | Description                 |
 | ----------- | --------------------------- |
